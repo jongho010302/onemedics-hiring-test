@@ -1,0 +1,14 @@
+.BoardContainer {
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: row;
+}
+
+.dottedLineHr {
+  border: none;
+  border-top: 3px dotted gainsboro;
+  color: #fff;
+  background-color: #fff;
+  height: 1px;
+  width: 80%;
+}
